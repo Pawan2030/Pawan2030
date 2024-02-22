@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pawan Mehta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India, I am also expanding my skills into backend development, aiming to become a full-stack developer. As a top-ranking coder on platforms such as LeetCode, GeeksforGeeks, and CodeStudio, I bring a strong foundation in algorithmic problem-solving. Hire me, and together we can elevate your company's growth 10X. This is my commitment.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan2030&label=Profile%20views&color=0e75b6&style=flat" alt="pawan2030" /> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **ReactJS Project.**
 
-- 🌱 I’m currently learning **Backend , and Advanced Data structure and Algorithm**
+- 🌱 I’m currently learning **Backend, and Advanced Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
+- 👯 I’m looking to collaborate on **Open Source projects.**
 
-- 💬 Ask me about **DSA, CP and development related things**
+- 🤝 I’m looking for help with **Advanced Backend Projects.**
+
+- 💬 Ask me about **Data Structures and Algorithms, Competitive Programming, and development-related topics.**
 
 - 📫 How to reach me **pawanmehta2030@gmil.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Urgboev6h5NW1AXuXQbjp6H_xr5sHZf5/view?usp=sharing](https://drive.google.com/file/d/1Urgboev6h5NW1AXuXQbjp6H_xr5sHZf5/view?usp=sharing)
 
-- ⚡ Fun fact **I think one day i became CEO of your😊😇😄😄 Company**
+- ⚡ Fun fact **I believe that one day I'll become the CEO of your company! 😊😇😄😄.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
