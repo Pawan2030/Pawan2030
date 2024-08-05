@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan2030&label=Profile%20views&color=0e75b6&style=flat" alt="pawan2030" /> </p>
 
-- 🔭 I’m currently working on ** ull-stack Project.**
+- 🔭 I’m currently working on ** Full-stack Project.**
 
 - 🌱 I’m currently learning **System Design, and Advanced Data Structures and Algorithms.**
 
