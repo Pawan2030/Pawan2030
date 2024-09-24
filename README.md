@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pawanmehta2030@gmil.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1jqCotGdN3MdJt0kk_77cdI64T87Sb0hi/view?usp=drive_link
+- 📄 Know about my experiences 
 - ⚡ Fun fact **I believe that one day I'll become the CEO of your company! 😊😇😄😄.**
 
 <h3 align="left">Connect with me:</h3>
