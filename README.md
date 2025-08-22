@@ -20,30 +20,6 @@ Hire me, and together we can elevate your company's growth by 10X—this is my c
 
 ---
 
-<h3 align="left">🚀 My Highlight Project: Expense Reimbursement System (ERS)</h3>
-
-A **microservice-based application** built using **Spring Boot + React + TypeScript** with **JWT authentication**.  
-
-**Features by Role:**  
-- **Employee:** Submit claims, view history, delete pending requests.  
-- **Manager:** Approve/Reject employee claims, create employees, view team’s pending claims.  
-- **Admin:** Assign roles, view all users, create employees under managers.  
-
-**Tech Stack:**  
-- **Backend:** Spring Boot, Spring Security (JWT), Spring Data JPA, MongoDB, PostgreSQL, Lombok, Eureka Server  
-- **Frontend:** React, TypeScript, Vite, TailwindCSS  
-- **CI/CD & Tools:** Jenkins, SonarQube, Jacoco, Lighthouse, Postman  
-- **Languages:** Java 17, JavaScript, TypeScript  
-
-📊 Includes:  
-- Jenkins CI/CD pipeline (with SonarQube integration)  
-- Static Code Analysis (SonarQube Reports)  
-- Frontend Lighthouse Performance Reports  
-- System Flow Diagrams  
-- Application Demo Video  
-
----
-
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pawan mehta" target="blank">
