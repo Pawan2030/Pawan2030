@@ -1,30 +1,62 @@
 <h1 align="center">Hi 👋, I'm Pawan Mehta</h1>
-<h3 align="center">As a passionate software developer from India, I am a proficient full-stack developer with a strong foundation in algorithmic problem-solving. Ranked as a top coder on platforms such as LeetCode, GeeksforGeeks, CodeChef, and CodeStudio, I bring expertise and dedication to every project. Hire me, and together we can elevate your company's growth by 10X—this is my commitment.</h3>
+<h3 align="center">
+As a passionate software developer from India, I am a proficient full-stack developer with a strong foundation in algorithmic problem-solving.  
+Ranked as a top coder on platforms such as LeetCode, GeeksforGeeks, CodeChef, and CodeStudio, I bring expertise and dedication to every project.  
+Hire me, and together we can elevate your company's growth by 10X—this is my commitment.  
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawan2030&label=Profile%20views&color=0e75b6&style=flat" alt="pawan2030" /> </p>
-
-- 🔭 I’m currently working on **Full-stack Project.**
-
-- 🌱 I’m currently learning **System Design, and Advanced Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **Open Source projects.**
-
-- 🤝 I’m looking for help with **Advanced Full Stack AI-Integrated Projects.**
-
-- 💬 Ask me about **Data Structures and Algorithms, Competitive Programming, and development-related topics.**
-
-- 📫 How to reach me **pawanmehta2030@gmil.com**
-
-- 📄 Know about my experiences 
-- ⚡ Fun fact **I believe that one day I'll become the CEO of your company! 😊😇😄😄.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pawan mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan mehta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pm2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pm2030" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=pawan2030&label=Profile%20views&color=0e75b6&style=flat" alt="pawan2030" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+- 🔭 I’m currently working on **Expense Reimbursement System (ERS) – A full-stack microservices project.**  
+- 🌱 I’m currently learning **System Design and Advanced Data Structures and Algorithms.**  
+- 👯 I’m looking to collaborate on **Open Source projects.**  
+- 🤝 I’m looking for help with **Advanced Full Stack AI-Integrated Projects.**  
+- 💬 Ask me about **Data Structures & Algorithms, Competitive Programming, and Full-Stack Development.**  
+- 📫 How to reach me **pawanmehta2030@gmail.com**  
+- 📄 Know about my experiences  
+- ⚡ Fun fact **I believe that one day I'll become the CEO of your company! 😊😇**  
+
+---
+
+<h3 align="left">🚀 My Highlight Project: Expense Reimbursement System (ERS)</h3>
+
+A **microservice-based application** built using **Spring Boot + React + TypeScript** with **JWT authentication**.  
+
+**Features by Role:**  
+- **Employee:** Submit claims, view history, delete pending requests.  
+- **Manager:** Approve/Reject employee claims, create employees, view team’s pending claims.  
+- **Admin:** Assign roles, view all users, create employees under managers.  
+
+**Tech Stack:**  
+- **Backend:** Spring Boot, Spring Security (JWT), Spring Data JPA, MongoDB, PostgreSQL, Lombok, Eureka Server  
+- **Frontend:** React, TypeScript, Vite, TailwindCSS  
+- **CI/CD & Tools:** Jenkins, SonarQube, Jacoco, Lighthouse, Postman  
+- **Languages:** Java 17, JavaScript, TypeScript  
+
+📊 Includes:  
+- Jenkins CI/CD pipeline (with SonarQube integration)  
+- Static Code Analysis (SonarQube Reports)  
+- Frontend Lighthouse Performance Reports  
+- System Flow Diagrams  
+- Application Demo Video  
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pawan mehta" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan mehta" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/pm2030" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pm2030" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -36,8 +68,19 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/545988?s=200&v=4" alt="sonarqube" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan2030&show_icons=true&locale=en&layout=compact" alt="pawan2030" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan2030&show_icons=true&locale=en" alt="pawan2030" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan2030&show_icons=true&locale=en&layout=compact" alt="pawan2030" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan2030&show_icons=true&locale=en" alt="pawan2030" />
+</p>
