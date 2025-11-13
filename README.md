@@ -15,7 +15,8 @@ Hire me, and together we can elevate your company's growth by 10X—this is my c
 - 🤝 I’m looking for help with **Advanced Full Stack AI-Integrated Projects.**  
 - 💬 Ask me about **Data Structures & Algorithms, Competitive Programming, and Full-Stack Development.**  
 - 📫 How to reach me **pawanmehta2030@gmail.com**  
-- 📄 Know about my experiences  
+- 📄 Know about my experiences →  
+  **<a href="https://drive.google.com/file/d/1lj1jyCq-KupwIM60GLT1qcXrCkTHUu2o/view?usp=sharing" target="_blank">My Resume</a>**  
 - ⚡ Fun fact **I believe that one day I'll become the CEO of your company! 😊😇**  
 
 ---
