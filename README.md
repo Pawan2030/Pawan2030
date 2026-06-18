@@ -84,20 +84,25 @@ Real-time collaborative platform supporting synchronized video streaming, chat, 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/MPawan2030/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
 <a href="https://github.com/pawan2030" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" />
 </a>
-
-<a href="https://leetcode.com/pm2030/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
 </p>
 
 📫 Reach me at: **pawanmehta2030@gmail.com**
+
+📄 Resume:  
+<a href="https://drive.google.com/file/d/15GxJgpak61JJAqDm87PTO7m6FYKk4W53/view?usp=sharing" target="_blank">
+View Resume
+</a>
 
 ---
 
