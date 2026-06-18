@@ -1,63 +1,112 @@
 <h1 align="center">Hi 👋, I'm Pawan Mehta</h1>
+
 <h3 align="center">
-As a passionate software developer from India, I am a proficient full-stack developer with a strong foundation in algorithmic problem-solving.  
-Ranked as a top coder on platforms such as LeetCode, GeeksforGeeks, CodeChef, and CodeStudio, I bring expertise and dedication to every project.  
-Hire me, and together we can elevate your company's growth by 10X—this is my commitment.  
+Software Engineer passionate about Backend Engineering, Distributed Systems, Payments, Cloud, and AI.
+Building scalable systems, solving complex engineering problems, and continuously learning to create impactful technology.
 </h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pawan2030&label=Profile%20views&color=0e75b6&style=flat" alt="pawan2030" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pawan2030&label=Profile%20Views&color=0e75b6&style=flat" alt="pawan2030" />
 </p>
-
-- 🔭 I’m currently working on **Expense Reimbursement System (ERS) – A full-stack microservices project.**  
-- 🌱 I’m currently learning **System Design and Advanced Data Structures and Algorithms.**  
-- 👯 I’m looking to collaborate on **Open Source projects.**  
-- 🤝 I’m looking for help with **Advanced Full Stack AI-Integrated Projects.**  
-- 💬 Ask me about **Data Structures & Algorithms, Competitive Programming, and Full-Stack Development.**  
-- 📫 How to reach me **pawanmehta2030@gmail.com**  
-- 📄 Know about my experiences →  
-  **<a href="https://drive.google.com/file/d/15_fa79RVMsf3Jvkh5V0Gc6UGLPliI5A_/view?usp=sharing" target="_blank">My Resume</a>**  
-- ⚡ Fun fact **I believe that one day I'll become the CEO of your company! 😊😇**  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+## 🚀 About Me
+
+- 💼 Software Engineer at Publicis Sapient
+- 💳 Building payment systems, microservices, and distributed backend applications
+- ☁️ Exploring AWS, Docker, Kubernetes, and cloud-native architectures
+- 🤖 Working with GenAI, Spring AI, Ollama, and AI-powered engineering workflows
+- 🔍 Interested in Distributed Systems, System Design, High-Scale Architectures, and Performance Engineering
+- 🌱 Currently learning Advanced System Design, Distributed Computing, and Cloud Infrastructure
+- 🏗️ Building production-grade microservices with Java, Spring Boot, PostgreSQL, MongoDB, Redis, and React
+- 📚 Strong foundation in DSA, Operating Systems, Computer Networks, DBMS, and OOP
+
+---
+
+## 💼 Experience
+
+### Publicis Sapient | Associate Software Developer
+- Building payment microservices for telecom platforms
+- Integrated Razorpay payment gateway with webhook-based transaction processing
+- Implemented idempotency, retry mechanisms, and fault-tolerant payment workflows
+- Developed REST APIs and scalable backend services using Spring Boot
+- Worked with CI/CD pipelines, testing automation, and production deployments
+
+### Physics Wallah | Software Development Intern
+- Improved backend performance using Redis caching
+- Built AI-assisted PR review automation
+- Worked on secure and scalable Node.js + MongoDB systems
+- Resolved production issues and payment reliability challenges
+
+### IIT Hyderabad | Summer Undergraduate Research Exposure (SURE)
+- Designed socket-based distributed systems in C++
+- Worked with TCP/IP, UDP, Load Balancing, and Concurrent Systems
+- Applied distributed systems and networking concepts in V2X simulations
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+Java • C++ • JavaScript • Python
+
+### Backend
+Spring Boot • Spring MVC • Hibernate • JPA • Node.js • Express.js
+
+### Distributed Systems & APIs
+Microservices • REST APIs • Eureka • JWT • System Design
+
+### Databases
+PostgreSQL • MySQL • MongoDB • Redis
+
+### Cloud & DevOps
+AWS • Docker • Kubernetes • Jenkins • Maven • Git • GitHub Actions
+
+### Testing
+JUnit • Mockito • Selenium • SonarQube
+
+### AI & Automation
+Spring AI • Ollama • LLM Workflows • AI-assisted Automation
+
+---
+
+## 🌟 Featured Projects
+
+### 💳 Expense Reimbursement System
+Full-stack microservices-based reimbursement platform built using Spring Boot, React, PostgreSQL, MongoDB, Eureka, JWT, Jenkins, SonarQube, and Docker.
+
+### 🎥 Workplace – The Virtual Workstation
+Real-time collaborative platform supporting synchronized video streaming, chat, and face-recognition-based authentication.
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/pawan mehta" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan mehta" height="30" width="40" />
+<a href="YOUR_LINKEDIN_URL" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/pm2030" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pm2030" height="30" width="40" />
+
+<a href="https://github.com/pawan2030" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/pm2030/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 </p>
+
+📫 Reach me at: **pawanmehta2030@gmail.com**
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/545988?s=200&v=4" alt="sonarqube" width="40" height="40"/> </a>
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pawan2030&show_icons=true" />
 </p>
 
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawan2030&show_icons=true&locale=en&layout=compact" alt="pawan2030" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawan2030&show_icons=true&locale=en" alt="pawan2030" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan2030&layout=compact" />
 </p>
